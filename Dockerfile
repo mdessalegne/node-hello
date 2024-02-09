@@ -1,5 +1,5 @@
 # Use an official Node.js runtime as a parent image
-FROM node:14
+FROM 647757222309.dkr.ecr.us-east-1.amazonaws.com/nodeapp-md:latest
 
 # Set the working directory to /app
 WORKDIR /app
